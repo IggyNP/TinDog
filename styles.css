@@ -77,8 +77,12 @@ p {
 /* Title Section */
 
 #title .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 3% 15% 10%;
   text-align: left;
+}
+
+#title .col-lg-6 {
+	padding-top: 2.5%;
 }
 
 .title-img {
@@ -86,6 +90,7 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 24%;
+  top: 27%;
 }
 
 /* Features Section */
